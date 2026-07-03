@@ -24,8 +24,7 @@ class ModelConfig:
     """Bedrockモデル設定クラス"""
 
     # モデルID（プロジェクト要件に応じて変更）
-    # 日本リージョンの場合: "jp.anthropic.claude-sonnet-4-5-20250929-v1:0"
-    DEFAULT_MODEL_ID = "{リージョン}.anthropic.{モデル名}"
+    DEFAULT_MODEL_ID = "global.anthropic.claude-sonnet-4-5-20250929-v1:0"
 
     # ガードレール設定（Amazon Bedrockで作成したガードレールIDを設定）
     # ガードレールが不要な場合はNoneを設定

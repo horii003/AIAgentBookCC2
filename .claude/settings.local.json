@@ -58,7 +58,9 @@
       "Bash(cp \"C:/Users/scsk-horii/Documents/AIAgentBookCC4/.claude/rules/00_rule_project_conventions.md\" \"C:/Users/scsk-horii/Documents/AIAgentBookCC4/.claude/skills/phase-06-code-generation/references/00_rule_project_conventions.md\")",
       "Bash(rm \"C:/Users/scsk-horii/Documents/AIAgentBookCC4/.claude/rules/STATE.md\" \"C:/Users/scsk-horii/Documents/AIAgentBookCC4/.claude/rules/SESSION-CONTEXT.md\" \"C:/Users/scsk-horii/Documents/AIAgentBookCC4/.claude/rules/00_rule_code_review_checklist.md\" \"C:/Users/scsk-horii/Documents/AIAgentBookCC4/.claude/rules/00_rule_directory_structure.md\" \"C:/Users/scsk-horii/Documents/AIAgentBookCC4/.claude/rules/00_rule_project_conventions.md\")",
       "Bash(cp \"/c/Users/scsk-horii/Documents/AIAgentBookCC4/.claude/skills/phase-01-business-requirements/assets/STATE.md\" \"/c/Users/scsk-horii/Documents/AIAgentBookCC4/STATE.md\")",
-      "Bash(cp \"/c/Users/scsk-horii/Documents/AIAgentBookCC4/.claude/skills/phase-01-business-requirements/assets/SESSION-CONTEXT.md\" \"/c/Users/scsk-horii/Documents/AIAgentBookCC4/SESSION-CONTEXT.md\")"
+      "Bash(cp \"/c/Users/scsk-horii/Documents/AIAgentBookCC4/.claude/skills/phase-01-business-requirements/assets/SESSION-CONTEXT.md\" \"/c/Users/scsk-horii/Documents/AIAgentBookCC4/SESSION-CONTEXT.md\")",
+      "Bash(cp /home/coder/workspace/AIAgentBookCC2/.claude/skills/phase-01-business-requirements/assets/STATE.md /home/coder/workspace/AIAgentBookCC2/STATE.md)",
+      "Bash(cp /home/coder/workspace/AIAgentBookCC2/.claude/skills/phase-01-business-requirements/assets/SESSION-CONTEXT.md /home/coder/workspace/AIAgentBookCC2/SESSION-CONTEXT.md)"
     ]
   }
 }
