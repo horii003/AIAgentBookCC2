@@ -16,7 +16,6 @@ description: 詳細設計フェーズ（05_detailed-design）の成果物（DD-x
 以下のファイルを必ず読み込む。
 
 1. `STATE.md`（プロジェクトルート）
-2. `SESSION-CONTEXT.md`（プロジェクトルート）
 
 ### 1-2. 「次アクション待ち状態」の確認
 

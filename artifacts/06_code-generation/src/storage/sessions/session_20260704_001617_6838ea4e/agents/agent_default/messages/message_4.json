@@ -1,0 +1,14 @@
+{
+  "message": {
+    "role": "user",
+    "content": [
+      {
+        "text": "はい"
+      }
+    ]
+  },
+  "message_id": 4,
+  "redact_message": null,
+  "created_at": "2026-07-04T00:16:59.329406+00:00",
+  "updated_at": "2026-07-04T00:16:59.329414+00:00"
+}

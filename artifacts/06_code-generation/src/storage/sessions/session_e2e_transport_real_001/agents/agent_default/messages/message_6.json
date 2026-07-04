@@ -1,0 +1,22 @@
+{
+  "message": {
+    "role": "user",
+    "content": [
+      {
+        "toolResult": {
+          "toolUseId": "tooluse_Vi80zpXNmgcmAa3f79E2F3",
+          "status": "success",
+          "content": [
+            {
+              "text": "{\"success\": false, \"message\": \"入力内容に不備があります。必須項目をご確認の上、再度お試しください。\"}"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "message_id": 6,
+  "redact_message": null,
+  "created_at": "2026-07-04T00:22:14.219403+00:00",
+  "updated_at": "2026-07-04T00:22:14.219412+00:00"
+}

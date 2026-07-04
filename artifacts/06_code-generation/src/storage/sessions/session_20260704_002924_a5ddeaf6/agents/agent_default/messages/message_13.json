@@ -1,0 +1,25 @@
+{
+  "message": {
+    "role": "assistant",
+    "content": [
+      {
+        "text": "専門エージェントが情報を受け取りました。\n\n他に申請する移動区間がある場合は追加情報をお知らせください。\nこの1区間のみの場合は「以上です」とお伝えいただければ、次のステップに進みます。"
+      }
+    ],
+    "metadata": {
+      "usage": {
+        "inputTokens": 5613,
+        "outputTokens": 80,
+        "totalTokens": 5693
+      },
+      "metrics": {
+        "latencyMs": 2311,
+        "timeToFirstByteMs": 1589
+      }
+    }
+  },
+  "message_id": 13,
+  "redact_message": null,
+  "created_at": "2026-07-04T00:30:10.605889+00:00",
+  "updated_at": "2026-07-04T00:30:10.605905+00:00"
+}

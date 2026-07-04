@@ -1,0 +1,31 @@
+{
+  "message": {
+    "role": "assistant",
+    "content": [
+      {
+        "toolUse": {
+          "toolUseId": "tooluse_K1TlYFCKH7JcNwU7GLStQ9",
+          "name": "transport_application_agent",
+          "input": {
+            "query": "以上です"
+          }
+        }
+      }
+    ],
+    "metadata": {
+      "usage": {
+        "inputTokens": 5141,
+        "outputTokens": 57,
+        "totalTokens": 5198
+      },
+      "metrics": {
+        "latencyMs": 2755,
+        "timeToFirstByteMs": 2574
+      }
+    }
+  },
+  "message_id": 13,
+  "redact_message": null,
+  "created_at": "2026-07-04T00:17:34.440369+00:00",
+  "updated_at": "2026-07-04T00:17:34.440384+00:00"
+}

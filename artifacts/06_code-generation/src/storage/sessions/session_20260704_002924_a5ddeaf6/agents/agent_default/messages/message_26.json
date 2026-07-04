@@ -1,0 +1,41 @@
+{
+  "message": {
+    "role": "assistant",
+    "content": [
+      {
+        "toolUse": {
+          "toolUseId": "tooluse_oW8tGlrf9HNQVzvFFfG7LO",
+          "name": "generate_transport_expense_form",
+          "input": {
+            "sections": [
+              {
+                "travel_date": "2026-04-25",
+                "departure": "豊洲",
+                "destination": "新宿",
+                "transport_type": "電車",
+                "fare": 420,
+                "purpose": "顧客訪問"
+              }
+            ],
+            "total_fare": 420
+          }
+        }
+      }
+    ],
+    "metadata": {
+      "usage": {
+        "inputTokens": 7440,
+        "outputTokens": 133,
+        "totalTokens": 7573
+      },
+      "metrics": {
+        "latencyMs": 2490,
+        "timeToFirstByteMs": 1217
+      }
+    }
+  },
+  "message_id": 26,
+  "redact_message": null,
+  "created_at": "2026-07-04T00:30:52.946499+00:00",
+  "updated_at": "2026-07-04T00:30:52.946514+00:00"
+}

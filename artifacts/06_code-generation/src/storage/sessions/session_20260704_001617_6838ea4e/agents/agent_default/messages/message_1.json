@@ -1,0 +1,25 @@
+{
+  "message": {
+    "role": "assistant",
+    "content": [
+      {
+        "text": "こんにちは、堀井様。申請受付窓口エージェントです。\n\nお名前を確認いたしました。それでは、どのような申請をご希望ですか？\n\n具体的な申請内容をお聞かせください。\n（例：「○○から○○までの交通費」「△△の購入費用」など）"
+      }
+    ],
+    "metadata": {
+      "usage": {
+        "inputTokens": 3693,
+        "outputTokens": 100,
+        "totalTokens": 3793
+      },
+      "metrics": {
+        "latencyMs": 2950,
+        "timeToFirstByteMs": 1713
+      }
+    }
+  },
+  "message_id": 1,
+  "redact_message": null,
+  "created_at": "2026-07-04T00:16:34.988337+00:00",
+  "updated_at": "2026-07-04T00:16:34.988350+00:00"
+}

@@ -1,0 +1,44 @@
+{
+  "message": {
+    "role": "assistant",
+    "content": [
+      {
+        "text": "申し訳ございません。申請書の生成時にエラーが発生しました。\n\n再度、正しい形式で申請書を生成いたします。"
+      },
+      {
+        "toolUse": {
+          "toolUseId": "tooluse_Bl7nMTO5oo2fOL86jjKPNi",
+          "name": "generate_transport_expense_form",
+          "input": {
+            "sections": [
+              {
+                "travel_date": "2026-07-01",
+                "departure": "渋谷",
+                "destination": "新宿",
+                "transport_type": "電車",
+                "fare": 170,
+                "purpose": "取引先訪問"
+              }
+            ],
+            "total_fare": 170
+          }
+        }
+      }
+    ],
+    "metadata": {
+      "usage": {
+        "inputTokens": 5485,
+        "outputTokens": 179,
+        "totalTokens": 5664
+      },
+      "metrics": {
+        "latencyMs": 2575,
+        "timeToFirstByteMs": 981
+      }
+    }
+  },
+  "message_id": 7,
+  "redact_message": null,
+  "created_at": "2026-07-04T00:22:16.800744+00:00",
+  "updated_at": "2026-07-04T00:22:16.800758+00:00"
+}

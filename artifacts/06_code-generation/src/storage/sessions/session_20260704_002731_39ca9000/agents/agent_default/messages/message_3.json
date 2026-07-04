@@ -1,0 +1,25 @@
+{
+  "message": {
+    "role": "assistant",
+    "content": [
+      {
+        "text": "それでは、どのような申請をご希望ですか？申請内容を教えてください。"
+      }
+    ],
+    "metadata": {
+      "usage": {
+        "inputTokens": 4355,
+        "outputTokens": 30,
+        "totalTokens": 4385
+      },
+      "metrics": {
+        "latencyMs": 1636,
+        "timeToFirstByteMs": 1548
+      }
+    }
+  },
+  "message_id": 3,
+  "redact_message": null,
+  "created_at": "2026-07-04T00:27:35.308324+00:00",
+  "updated_at": "2026-07-04T00:27:35.308338+00:00"
+}

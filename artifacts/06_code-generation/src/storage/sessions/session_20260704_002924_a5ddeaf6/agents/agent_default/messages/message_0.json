@@ -1,0 +1,14 @@
+{
+  "message": {
+    "role": "user",
+    "content": [
+      {
+        "text": "堀井"
+      }
+    ]
+  },
+  "message_id": 0,
+  "redact_message": null,
+  "created_at": "2026-07-04T00:29:27.760702+00:00",
+  "updated_at": "2026-07-04T00:29:27.760711+00:00"
+}

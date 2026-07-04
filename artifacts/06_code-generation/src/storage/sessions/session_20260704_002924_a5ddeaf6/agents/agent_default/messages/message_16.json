@@ -1,0 +1,22 @@
+{
+  "message": {
+    "role": "user",
+    "content": [
+      {
+        "toolResult": {
+          "toolUseId": "tooluse_DRUfHVFGHG3Pny4NBav3Bn",
+          "status": "success",
+          "content": [
+            {
+              "text": "申し訳ございません。システムで「豊洲→新宿」の経路情報が見つかりませんでした（EX-06）。\n\nお手数ですが、**交通費の金額を手動でご入力**いただけますでしょうか？\n\n例：220円、350円など\n"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "message_id": 16,
+  "redact_message": null,
+  "created_at": "2026-07-04T00:30:25.784963+00:00",
+  "updated_at": "2026-07-04T00:30:25.784971+00:00"
+}

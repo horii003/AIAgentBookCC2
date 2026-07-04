@@ -1,0 +1,14 @@
+{
+  "message": {
+    "role": "user",
+    "content": [
+      {
+        "text": "OK"
+      }
+    ]
+  },
+  "message_id": 22,
+  "redact_message": null,
+  "created_at": "2026-07-04T00:30:48.540006+00:00",
+  "updated_at": "2026-07-04T00:30:48.540017+00:00"
+}

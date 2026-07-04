@@ -1,0 +1,38 @@
+{
+  "message": {
+    "role": "assistant",
+    "content": [
+      {
+        "text": "承知いたしました。交通費精算申請を承ります。\n\nまず、ご提供いただいた情報を確認させていただきます：\n\n**【申請内容】**\n- 移動日：2026-07-01\n- 出発地：渋谷\n- 目的地：新宿\n- 交通手段：電車\n- 業務目的：取引先訪問\n\nそれでは、交通費を自動計算いたします。"
+      },
+      {
+        "toolUse": {
+          "toolUseId": "tooluse_PYV8uc0zeBkNvaN0Op0vqT",
+          "name": "calculate_transport_fare",
+          "input": {
+            "departure": "渋谷",
+            "destination": "新宿",
+            "transport_type": "電車",
+            "travel_date": "2026-07-01",
+            "purpose": "取引先訪問"
+          }
+        }
+      }
+    ],
+    "metadata": {
+      "usage": {
+        "inputTokens": 4507,
+        "outputTokens": 271,
+        "totalTokens": 4778
+      },
+      "metrics": {
+        "latencyMs": 3521,
+        "timeToFirstByteMs": 1267
+      }
+    }
+  },
+  "message_id": 1,
+  "redact_message": null,
+  "created_at": "2026-07-04T00:22:06.105127+00:00",
+  "updated_at": "2026-07-04T00:22:06.105144+00:00"
+}

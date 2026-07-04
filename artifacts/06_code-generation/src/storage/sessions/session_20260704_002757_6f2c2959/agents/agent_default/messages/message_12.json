@@ -1,0 +1,44 @@
+{
+  "message": {
+    "role": "assistant",
+    "content": [
+      {
+        "text": "承知いたしました。申請書を生成いたします。"
+      },
+      {
+        "toolUse": {
+          "toolUseId": "tooluse_EI3v9Mt2NGzZaOsyEDxKlt",
+          "name": "generate_transport_expense_form",
+          "input": {
+            "sections": [
+              {
+                "travel_date": "2026-07-01",
+                "departure": "渋谷",
+                "destination": "新宿",
+                "transport_type": "電車",
+                "fare": 170,
+                "purpose": "取引先訪問"
+              }
+            ],
+            "total_fare": 170
+          }
+        }
+      }
+    ],
+    "metadata": {
+      "usage": {
+        "inputTokens": 6207,
+        "outputTokens": 152,
+        "totalTokens": 6359
+      },
+      "metrics": {
+        "latencyMs": 3127,
+        "timeToFirstByteMs": 1826
+      }
+    }
+  },
+  "message_id": 12,
+  "redact_message": null,
+  "created_at": "2026-07-04T00:28:26.014786+00:00",
+  "updated_at": "2026-07-04T00:28:26.014800+00:00"
+}

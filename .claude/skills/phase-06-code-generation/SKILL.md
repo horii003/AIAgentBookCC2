@@ -16,7 +16,6 @@ description: コード生成フェーズ（06_code-generation）の成果物（I
 以下のファイルを必ず読み込む。
 
 1. `STATE.md`（プロジェクトルート）
-2. `SESSION-CONTEXT.md`（プロジェクトルート）
 
 ### 1-2. 「次アクション待ち状態」の確認
 

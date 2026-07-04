@@ -1,0 +1,34 @@
+{
+  "message": {
+    "role": "assistant",
+    "content": [
+      {
+        "text": "ありがとうございます、山田太郎様。"
+      },
+      {
+        "toolUse": {
+          "toolUseId": "tooluse_d9CnA5EcvfYIrVh4cwQVUY",
+          "name": "set_applicant_name",
+          "input": {
+            "name": "山田太郎"
+          }
+        }
+      }
+    ],
+    "metadata": {
+      "usage": {
+        "inputTokens": 4248,
+        "outputTokens": 76,
+        "totalTokens": 4324
+      },
+      "metrics": {
+        "latencyMs": 1882,
+        "timeToFirstByteMs": 1570
+      }
+    }
+  },
+  "message_id": 1,
+  "redact_message": null,
+  "created_at": "2026-07-04T00:27:59.249388+00:00",
+  "updated_at": "2026-07-04T00:27:59.249402+00:00"
+}

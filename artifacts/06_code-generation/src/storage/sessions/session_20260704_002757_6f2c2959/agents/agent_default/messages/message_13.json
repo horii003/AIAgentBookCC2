@@ -1,0 +1,22 @@
+{
+  "message": {
+    "role": "user",
+    "content": [
+      {
+        "toolResult": {
+          "toolUseId": "tooluse_EI3v9Mt2NGzZaOsyEDxKlt",
+          "status": "success",
+          "content": [
+            {
+              "text": "{\"file_path\": \"outputs/交通費精算申請書_20260704002826.xlsx\", \"status\": \"success\"}"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "message_id": 13,
+  "redact_message": null,
+  "created_at": "2026-07-04T00:28:26.028535+00:00",
+  "updated_at": "2026-07-04T00:28:26.028543+00:00"
+}

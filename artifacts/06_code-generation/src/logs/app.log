@@ -1,0 +1,216 @@
+2026-07-04 00:16:17,615 [INFO] __main__ - システム起動
+2026-07-04 00:16:32,015 [INFO] agents.orchestrator_agent - reception_agent: 呼び出し開始
+2026-07-04 00:16:32,016 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し開始 agent=申請受付窓口エージェント
+2026-07-04 00:16:32,018 [INFO] handlers.loop_control_hook - LoopControlHook: iteration=0/10 agent=申請受付窓口エージェント
+2026-07-04 00:16:34,988 [INFO] handlers.loop_control_hook - LoopControlHook: 反復カウント更新 count=1/10
+2026-07-04 00:16:34,988 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し完了 合計1ループ agent=申請受付窓口エージェント
+2026-07-04 00:16:48,171 [INFO] agents.orchestrator_agent - reception_agent: 呼び出し開始
+2026-07-04 00:16:48,171 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し開始 agent=申請受付窓口エージェント
+2026-07-04 00:16:48,172 [INFO] handlers.loop_control_hook - LoopControlHook: iteration=0/10 agent=申請受付窓口エージェント
+2026-07-04 00:16:51,796 [INFO] handlers.loop_control_hook - LoopControlHook: 反復カウント更新 count=1/10
+2026-07-04 00:16:51,797 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し完了 合計1ループ agent=申請受付窓口エージェント
+2026-07-04 00:16:59,328 [INFO] agents.orchestrator_agent - reception_agent: 呼び出し開始
+2026-07-04 00:16:59,329 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し開始 agent=申請受付窓口エージェント
+2026-07-04 00:16:59,330 [INFO] handlers.loop_control_hook - LoopControlHook: iteration=0/10 agent=申請受付窓口エージェント
+2026-07-04 00:17:01,487 [INFO] handlers.loop_control_hook - LoopControlHook: 反復カウント更新 count=1/10
+2026-07-04 00:17:01,488 [INFO] handlers.loop_control_hook - LoopControlHook: ツール呼び出し開始 tool=transport_application_agent
+2026-07-04 00:17:01,488 [INFO] agents.base_agent - AG-002: invoke_specialist_agent 開始 applicant_name= application_date=2026-07-04 session_id=20260704_001617_6838ea4e
+2026-07-04 00:17:01,493 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し開始 agent=交通費精算申請エージェント
+2026-07-04 00:17:01,493 [INFO] handlers.loop_control_hook - LoopControlHook: iteration=0/10 agent=交通費精算申請エージェント
+2026-07-04 00:17:06,738 [INFO] handlers.loop_control_hook - LoopControlHook: 反復カウント更新 count=1/10
+2026-07-04 00:17:06,739 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し完了 合計1ループ agent=交通費精算申請エージェント
+2026-07-04 00:17:06,740 [INFO] handlers.loop_control_hook - LoopControlHook: ツール呼び出し完了 tool=transport_application_agent
+2026-07-04 00:17:06,741 [INFO] handlers.loop_control_hook - LoopControlHook: iteration=1/10 agent=申請受付窓口エージェント
+2026-07-04 00:17:11,033 [INFO] handlers.loop_control_hook - LoopControlHook: 反復カウント更新 count=2/10
+2026-07-04 00:17:11,034 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し完了 合計2ループ agent=申請受付窓口エージェント
+2026-07-04 00:17:14,985 [INFO] agents.orchestrator_agent - reception_agent: 呼び出し開始
+2026-07-04 00:17:14,986 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し開始 agent=申請受付窓口エージェント
+2026-07-04 00:17:14,987 [INFO] handlers.loop_control_hook - LoopControlHook: iteration=0/10 agent=申請受付窓口エージェント
+2026-07-04 00:17:16,900 [INFO] handlers.loop_control_hook - LoopControlHook: 反復カウント更新 count=1/10
+2026-07-04 00:17:16,901 [INFO] handlers.loop_control_hook - LoopControlHook: ツール呼び出し開始 tool=transport_application_agent
+2026-07-04 00:17:16,901 [INFO] agents.base_agent - AG-002: invoke_specialist_agent 開始 applicant_name= application_date=2026-07-04 session_id=20260704_001617_6838ea4e
+2026-07-04 00:17:16,907 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し開始 agent=交通費精算申請エージェント
+2026-07-04 00:17:16,907 [INFO] handlers.loop_control_hook - LoopControlHook: iteration=0/10 agent=交通費精算申請エージェント
+2026-07-04 00:17:19,763 [INFO] handlers.loop_control_hook - LoopControlHook: 反復カウント更新 count=1/10
+2026-07-04 00:17:19,763 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し完了 合計1ループ agent=交通費精算申請エージェント
+2026-07-04 00:17:19,764 [INFO] handlers.loop_control_hook - LoopControlHook: ツール呼び出し完了 tool=transport_application_agent
+2026-07-04 00:17:19,766 [INFO] handlers.loop_control_hook - LoopControlHook: iteration=1/10 agent=申請受付窓口エージェント
+2026-07-04 00:17:22,245 [INFO] handlers.loop_control_hook - LoopControlHook: 反復カウント更新 count=2/10
+2026-07-04 00:17:22,246 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し完了 合計2ループ agent=申請受付窓口エージェント
+2026-07-04 00:17:31,678 [INFO] agents.orchestrator_agent - reception_agent: 呼び出し開始
+2026-07-04 00:17:31,679 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し開始 agent=申請受付窓口エージェント
+2026-07-04 00:17:31,680 [INFO] handlers.loop_control_hook - LoopControlHook: iteration=0/10 agent=申請受付窓口エージェント
+2026-07-04 00:17:34,440 [INFO] handlers.loop_control_hook - LoopControlHook: 反復カウント更新 count=1/10
+2026-07-04 00:17:34,441 [INFO] handlers.loop_control_hook - LoopControlHook: ツール呼び出し開始 tool=transport_application_agent
+2026-07-04 00:17:34,441 [INFO] agents.base_agent - AG-002: invoke_specialist_agent 開始 applicant_name= application_date=2026-07-04 session_id=20260704_001617_6838ea4e
+2026-07-04 00:17:34,447 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し開始 agent=交通費精算申請エージェント
+2026-07-04 00:17:34,448 [INFO] handlers.loop_control_hook - LoopControlHook: iteration=0/10 agent=交通費精算申請エージェント
+2026-07-04 00:17:36,535 [INFO] handlers.loop_control_hook - LoopControlHook: 反復カウント更新 count=1/10
+2026-07-04 00:17:36,536 [INFO] handlers.loop_control_hook - LoopControlHook: ツール呼び出し開始 tool=calculate_transport_fare
+2026-07-04 00:17:36,536 [INFO] tools.transport_tools - calculate_transport_fare: 開始 departure=豊洲 destination=新宿 transport_type=電車 travel_date=2026-04-25
+2026-07-04 00:17:36,537 [WARNING] tools.transport_tools - calculate_transport_fare: 経路未登録 departure=豊洲 destination=新宿
+2026-07-04 00:17:36,537 [INFO] handlers.loop_control_hook - LoopControlHook: ツール呼び出し完了 tool=calculate_transport_fare
+2026-07-04 00:17:36,538 [INFO] handlers.loop_control_hook - LoopControlHook: iteration=1/10 agent=交通費精算申請エージェント
+2026-07-04 00:17:39,731 [INFO] handlers.loop_control_hook - LoopControlHook: 反復カウント更新 count=2/10
+2026-07-04 00:17:39,731 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し完了 合計2ループ agent=交通費精算申請エージェント
+2026-07-04 00:17:39,732 [INFO] handlers.loop_control_hook - LoopControlHook: ツール呼び出し完了 tool=transport_application_agent
+2026-07-04 00:17:39,734 [INFO] handlers.loop_control_hook - LoopControlHook: iteration=1/10 agent=申請受付窓口エージェント
+2026-07-04 00:17:41,844 [INFO] handlers.loop_control_hook - LoopControlHook: 反復カウント更新 count=2/10
+2026-07-04 00:17:41,845 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し完了 合計2ループ agent=申請受付窓口エージェント
+2026-07-04 00:17:52,205 [INFO] agents.orchestrator_agent - reception_agent: 呼び出し開始
+2026-07-04 00:17:52,206 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し開始 agent=申請受付窓口エージェント
+2026-07-04 00:17:52,206 [INFO] handlers.loop_control_hook - LoopControlHook: iteration=0/10 agent=申請受付窓口エージェント
+2026-07-04 00:17:53,936 [INFO] handlers.loop_control_hook - LoopControlHook: 反復カウント更新 count=1/10
+2026-07-04 00:17:53,937 [INFO] handlers.loop_control_hook - LoopControlHook: ツール呼び出し開始 tool=transport_application_agent
+2026-07-04 00:17:53,937 [INFO] agents.base_agent - AG-002: invoke_specialist_agent 開始 applicant_name= application_date=2026-07-04 session_id=20260704_001617_6838ea4e
+2026-07-04 00:17:53,943 [WARNING] strands.session.repository_session_manager - Session message history has an orphaned toolUse with no toolResult. Adding toolResult content blocks to create valid conversation.
+2026-07-04 00:17:53,944 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し開始 agent=交通費精算申請エージェント
+2026-07-04 00:17:53,945 [INFO] handlers.loop_control_hook - LoopControlHook: iteration=0/10 agent=交通費精算申請エージェント
+2026-07-04 00:18:00,484 [INFO] handlers.loop_control_hook - LoopControlHook: 反復カウント更新 count=1/10
+2026-07-04 00:18:00,485 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し完了 合計1ループ agent=交通費精算申請エージェント
+2026-07-04 00:18:00,486 [INFO] handlers.loop_control_hook - LoopControlHook: ツール呼び出し完了 tool=transport_application_agent
+2026-07-04 00:18:00,488 [INFO] handlers.loop_control_hook - LoopControlHook: iteration=1/10 agent=申請受付窓口エージェント
+2026-07-04 00:18:04,373 [INFO] handlers.loop_control_hook - LoopControlHook: 反復カウント更新 count=2/10
+2026-07-04 00:18:04,374 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し完了 合計2ループ agent=申請受付窓口エージェント
+2026-07-04 00:18:10,387 [INFO] agents.orchestrator_agent - reception_agent: 呼び出し開始
+2026-07-04 00:18:10,387 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し開始 agent=申請受付窓口エージェント
+2026-07-04 00:18:10,388 [INFO] handlers.loop_control_hook - LoopControlHook: iteration=0/10 agent=申請受付窓口エージェント
+2026-07-04 00:18:12,214 [INFO] handlers.loop_control_hook - LoopControlHook: 反復カウント更新 count=1/10
+2026-07-04 00:18:12,215 [INFO] handlers.loop_control_hook - LoopControlHook: ツール呼び出し開始 tool=transport_application_agent
+2026-07-04 00:18:12,215 [INFO] agents.base_agent - AG-002: invoke_specialist_agent 開始 applicant_name= application_date=2026-07-04 session_id=20260704_001617_6838ea4e
+2026-07-04 00:18:12,223 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し開始 agent=交通費精算申請エージェント
+2026-07-04 00:18:12,224 [INFO] handlers.loop_control_hook - LoopControlHook: iteration=0/10 agent=交通費精算申請エージェント
+2026-07-04 00:18:13,746 [INFO] handlers.loop_control_hook - LoopControlHook: 反復カウント更新 count=1/10
+2026-07-04 00:18:13,747 [INFO] handlers.loop_control_hook - LoopControlHook: ツール呼び出し開始 tool=transport_application_agent
+2026-07-04 00:18:13,747 [ERROR] strands.tools.executors._executor - tool_name=<transport_application_agent>, available_tools=<['calculate_transport_fare', 'generate_transport_expense_form']> | tool not found in registry
+2026-07-04 00:18:13,747 [INFO] handlers.loop_control_hook - LoopControlHook: ツール呼び出し完了 tool=transport_application_agent
+2026-07-04 00:18:13,749 [INFO] handlers.loop_control_hook - LoopControlHook: iteration=1/10 agent=交通費精算申請エージェント
+2026-07-04 00:18:16,336 [INFO] handlers.loop_control_hook - LoopControlHook: 反復カウント更新 count=2/10
+2026-07-04 00:18:16,337 [INFO] handlers.human_approval_hook - HumanApprovalHook: 承認確認開始 tool_name=generate_transport_expense_form
+2026-07-04 00:18:16,337 [INFO] handlers.human_approval_hook - HumanApprovalHook: 承認OK tool_name=generate_transport_expense_form
+2026-07-04 00:18:16,337 [INFO] handlers.loop_control_hook - LoopControlHook: ツール呼び出し開始 tool=generate_transport_expense_form
+2026-07-04 00:18:16,337 [INFO] tools.output_generator - generate_transport_expense_form: 開始 sections=1
+2026-07-04 00:18:16,338 [INFO] handlers.loop_control_hook - LoopControlHook: ツール呼び出し完了 tool=generate_transport_expense_form
+2026-07-04 00:18:16,339 [INFO] handlers.loop_control_hook - LoopControlHook: iteration=2/10 agent=交通費精算申請エージェント
+2026-07-04 00:18:19,371 [INFO] handlers.loop_control_hook - LoopControlHook: 反復カウント更新 count=3/10
+2026-07-04 00:18:19,372 [INFO] handlers.human_approval_hook - HumanApprovalHook: 承認確認開始 tool_name=generate_transport_expense_form
+2026-07-04 00:18:19,372 [INFO] handlers.human_approval_hook - HumanApprovalHook: 承認OK tool_name=generate_transport_expense_form
+2026-07-04 00:18:19,372 [INFO] handlers.loop_control_hook - LoopControlHook: ツール呼び出し開始 tool=generate_transport_expense_form
+2026-07-04 00:18:19,372 [INFO] tools.output_generator - generate_transport_expense_form: 開始 sections=1
+2026-07-04 00:18:19,373 [INFO] handlers.loop_control_hook - LoopControlHook: ツール呼び出し完了 tool=generate_transport_expense_form
+2026-07-04 00:18:19,375 [INFO] handlers.loop_control_hook - LoopControlHook: iteration=3/10 agent=交通費精算申請エージェント
+2026-07-04 00:18:23,480 [INFO] handlers.loop_control_hook - LoopControlHook: 反復カウント更新 count=4/10
+2026-07-04 00:18:23,481 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し完了 合計4ループ agent=交通費精算申請エージェント
+2026-07-04 00:18:23,483 [INFO] handlers.loop_control_hook - LoopControlHook: ツール呼び出し完了 tool=transport_application_agent
+2026-07-04 00:18:23,485 [INFO] handlers.loop_control_hook - LoopControlHook: iteration=1/10 agent=申請受付窓口エージェント
+2026-07-04 00:18:28,100 [INFO] handlers.loop_control_hook - LoopControlHook: 反復カウント更新 count=2/10
+2026-07-04 00:18:28,100 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し完了 合計2ループ agent=申請受付窓口エージェント
+2026-07-04 00:18:57,476 [INFO] __main__ - システム正常終了
+2026-07-04 00:29:24,684 [INFO] __main__ - システム起動
+2026-07-04 00:29:27,759 [INFO] agents.orchestrator_agent - reception_agent: 呼び出し開始
+2026-07-04 00:29:27,760 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し開始 agent=申請受付窓口エージェント
+2026-07-04 00:29:27,762 [INFO] handlers.loop_control_hook - LoopControlHook: iteration=0/10 agent=申請受付窓口エージェント
+2026-07-04 00:29:29,571 [INFO] handlers.loop_control_hook - LoopControlHook: 反復カウント更新 count=1/10
+2026-07-04 00:29:29,572 [INFO] handlers.loop_control_hook - LoopControlHook: ツール呼び出し開始 tool=set_applicant_name
+2026-07-04 00:29:29,572 [INFO] agents.orchestrator_agent - set_applicant_name: 申請者名を登録 applicant_name=堀井
+2026-07-04 00:29:29,573 [INFO] handlers.loop_control_hook - LoopControlHook: ツール呼び出し完了 tool=set_applicant_name
+2026-07-04 00:29:29,574 [INFO] handlers.loop_control_hook - LoopControlHook: iteration=1/10 agent=申請受付窓口エージェント
+2026-07-04 00:29:31,356 [INFO] handlers.loop_control_hook - LoopControlHook: 反復カウント更新 count=2/10
+2026-07-04 00:29:31,357 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し完了 合計2ループ agent=申請受付窓口エージェント
+2026-07-04 00:29:36,093 [INFO] agents.orchestrator_agent - reception_agent: 呼び出し開始
+2026-07-04 00:29:36,094 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し開始 agent=申請受付窓口エージェント
+2026-07-04 00:29:36,095 [INFO] handlers.loop_control_hook - LoopControlHook: iteration=0/10 agent=申請受付窓口エージェント
+2026-07-04 00:29:40,746 [INFO] handlers.loop_control_hook - LoopControlHook: 反復カウント更新 count=1/10
+2026-07-04 00:29:40,747 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し完了 合計1ループ agent=申請受付窓口エージェント
+2026-07-04 00:29:47,905 [INFO] agents.orchestrator_agent - reception_agent: 呼び出し開始
+2026-07-04 00:29:47,906 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し開始 agent=申請受付窓口エージェント
+2026-07-04 00:29:47,907 [INFO] handlers.loop_control_hook - LoopControlHook: iteration=0/10 agent=申請受付窓口エージェント
+2026-07-04 00:29:50,272 [INFO] handlers.loop_control_hook - LoopControlHook: 反復カウント更新 count=1/10
+2026-07-04 00:29:50,272 [INFO] handlers.loop_control_hook - LoopControlHook: ツール呼び出し開始 tool=transport_application_agent
+2026-07-04 00:29:50,273 [INFO] agents.base_agent - AG-002: invoke_specialist_agent 開始 applicant_name=堀井 application_date=2026-07-04 session_id=20260704_002924_a5ddeaf6
+2026-07-04 00:29:50,278 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し開始 agent=交通費精算申請エージェント
+2026-07-04 00:29:50,279 [INFO] handlers.loop_control_hook - LoopControlHook: iteration=0/10 agent=交通費精算申請エージェント
+2026-07-04 00:29:56,562 [INFO] handlers.loop_control_hook - LoopControlHook: 反復カウント更新 count=1/10
+2026-07-04 00:29:56,563 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し完了 合計1ループ agent=交通費精算申請エージェント
+2026-07-04 00:29:56,564 [INFO] handlers.loop_control_hook - LoopControlHook: ツール呼び出し完了 tool=transport_application_agent
+2026-07-04 00:29:56,566 [INFO] handlers.loop_control_hook - LoopControlHook: iteration=1/10 agent=申請受付窓口エージェント
+2026-07-04 00:29:59,261 [INFO] handlers.loop_control_hook - LoopControlHook: 反復カウント更新 count=2/10
+2026-07-04 00:29:59,262 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し完了 合計2ループ agent=申請受付窓口エージェント
+2026-07-04 00:30:02,141 [INFO] agents.orchestrator_agent - reception_agent: 呼び出し開始
+2026-07-04 00:30:02,142 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し開始 agent=申請受付窓口エージェント
+2026-07-04 00:30:02,143 [INFO] handlers.loop_control_hook - LoopControlHook: iteration=0/10 agent=申請受付窓口エージェント
+2026-07-04 00:30:04,566 [INFO] handlers.loop_control_hook - LoopControlHook: 反復カウント更新 count=1/10
+2026-07-04 00:30:04,567 [INFO] handlers.loop_control_hook - LoopControlHook: ツール呼び出し開始 tool=transport_application_agent
+2026-07-04 00:30:04,567 [INFO] agents.base_agent - AG-002: invoke_specialist_agent 開始 applicant_name=堀井 application_date=2026-07-04 session_id=20260704_002924_a5ddeaf6
+2026-07-04 00:30:04,573 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し開始 agent=交通費精算申請エージェント
+2026-07-04 00:30:04,574 [INFO] handlers.loop_control_hook - LoopControlHook: iteration=0/10 agent=交通費精算申請エージェント
+2026-07-04 00:30:08,286 [INFO] handlers.loop_control_hook - LoopControlHook: 反復カウント更新 count=1/10
+2026-07-04 00:30:08,287 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し完了 合計1ループ agent=交通費精算申請エージェント
+2026-07-04 00:30:08,288 [INFO] handlers.loop_control_hook - LoopControlHook: ツール呼び出し完了 tool=transport_application_agent
+2026-07-04 00:30:08,289 [INFO] handlers.loop_control_hook - LoopControlHook: iteration=1/10 agent=申請受付窓口エージェント
+2026-07-04 00:30:10,605 [INFO] handlers.loop_control_hook - LoopControlHook: 反復カウント更新 count=2/10
+2026-07-04 00:30:10,606 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し完了 合計2ループ agent=申請受付窓口エージェント
+2026-07-04 00:30:16,587 [INFO] agents.orchestrator_agent - reception_agent: 呼び出し開始
+2026-07-04 00:30:16,588 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し開始 agent=申請受付窓口エージェント
+2026-07-04 00:30:16,589 [INFO] handlers.loop_control_hook - LoopControlHook: iteration=0/10 agent=申請受付窓口エージェント
+2026-07-04 00:30:18,545 [INFO] handlers.loop_control_hook - LoopControlHook: 反復カウント更新 count=1/10
+2026-07-04 00:30:18,546 [INFO] handlers.loop_control_hook - LoopControlHook: ツール呼び出し開始 tool=transport_application_agent
+2026-07-04 00:30:18,546 [INFO] agents.base_agent - AG-002: invoke_specialist_agent 開始 applicant_name=堀井 application_date=2026-07-04 session_id=20260704_002924_a5ddeaf6
+2026-07-04 00:30:18,553 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し開始 agent=交通費精算申請エージェント
+2026-07-04 00:30:18,554 [INFO] handlers.loop_control_hook - LoopControlHook: iteration=0/10 agent=交通費精算申請エージェント
+2026-07-04 00:30:20,113 [INFO] handlers.loop_control_hook - LoopControlHook: 反復カウント更新 count=1/10
+2026-07-04 00:30:20,114 [INFO] handlers.loop_control_hook - LoopControlHook: ツール呼び出し開始 tool=transport_application_agent
+2026-07-04 00:30:20,114 [ERROR] strands.tools.executors._executor - tool_name=<transport_application_agent>, available_tools=<['calculate_transport_fare', 'generate_transport_expense_form']> | tool not found in registry
+2026-07-04 00:30:20,114 [INFO] handlers.loop_control_hook - LoopControlHook: ツール呼び出し完了 tool=transport_application_agent
+2026-07-04 00:30:20,115 [INFO] handlers.loop_control_hook - LoopControlHook: iteration=1/10 agent=交通費精算申請エージェント
+2026-07-04 00:30:23,088 [INFO] handlers.loop_control_hook - LoopControlHook: 反復カウント更新 count=2/10
+2026-07-04 00:30:23,089 [INFO] handlers.loop_control_hook - LoopControlHook: ツール呼び出し開始 tool=calculate_transport_fare
+2026-07-04 00:30:23,089 [INFO] tools.transport_tools - calculate_transport_fare: 開始 departure=豊洲 destination=新宿 transport_type=電車 travel_date=2026-04-25
+2026-07-04 00:30:23,090 [WARNING] tools.transport_tools - calculate_transport_fare: 経路未登録 departure=豊洲 destination=新宿
+2026-07-04 00:30:23,090 [INFO] handlers.loop_control_hook - LoopControlHook: ツール呼び出し完了 tool=calculate_transport_fare
+2026-07-04 00:30:23,092 [INFO] handlers.loop_control_hook - LoopControlHook: iteration=2/10 agent=交通費精算申請エージェント
+2026-07-04 00:30:25,782 [INFO] handlers.loop_control_hook - LoopControlHook: 反復カウント更新 count=3/10
+2026-07-04 00:30:25,782 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し完了 合計3ループ agent=交通費精算申請エージェント
+2026-07-04 00:30:25,784 [INFO] handlers.loop_control_hook - LoopControlHook: ツール呼び出し完了 tool=transport_application_agent
+2026-07-04 00:30:25,786 [INFO] handlers.loop_control_hook - LoopControlHook: iteration=1/10 agent=申請受付窓口エージェント
+2026-07-04 00:30:27,845 [INFO] handlers.loop_control_hook - LoopControlHook: 反復カウント更新 count=2/10
+2026-07-04 00:30:27,845 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し完了 合計2ループ agent=申請受付窓口エージェント
+2026-07-04 00:30:33,194 [INFO] agents.orchestrator_agent - reception_agent: 呼び出し開始
+2026-07-04 00:30:33,195 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し開始 agent=申請受付窓口エージェント
+2026-07-04 00:30:33,196 [INFO] handlers.loop_control_hook - LoopControlHook: iteration=0/10 agent=申請受付窓口エージェント
+2026-07-04 00:30:34,866 [INFO] handlers.loop_control_hook - LoopControlHook: 反復カウント更新 count=1/10
+2026-07-04 00:30:34,867 [INFO] handlers.loop_control_hook - LoopControlHook: ツール呼び出し開始 tool=transport_application_agent
+2026-07-04 00:30:34,867 [INFO] agents.base_agent - AG-002: invoke_specialist_agent 開始 applicant_name=堀井 application_date=2026-07-04 session_id=20260704_002924_a5ddeaf6
+2026-07-04 00:30:34,874 [WARNING] strands.session.repository_session_manager - Session message history has an orphaned toolUse with no toolResult. Adding toolResult content blocks to create valid conversation.
+2026-07-04 00:30:34,874 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し開始 agent=交通費精算申請エージェント
+2026-07-04 00:30:34,876 [INFO] handlers.loop_control_hook - LoopControlHook: iteration=0/10 agent=交通費精算申請エージェント
+2026-07-04 00:30:41,465 [INFO] handlers.loop_control_hook - LoopControlHook: 反復カウント更新 count=1/10
+2026-07-04 00:30:41,466 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し完了 合計1ループ agent=交通費精算申請エージェント
+2026-07-04 00:30:41,468 [INFO] handlers.loop_control_hook - LoopControlHook: ツール呼び出し完了 tool=transport_application_agent
+2026-07-04 00:30:41,470 [INFO] handlers.loop_control_hook - LoopControlHook: iteration=1/10 agent=申請受付窓口エージェント
+2026-07-04 00:30:44,739 [INFO] handlers.loop_control_hook - LoopControlHook: 反復カウント更新 count=2/10
+2026-07-04 00:30:44,740 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し完了 合計2ループ agent=申請受付窓口エージェント
+2026-07-04 00:30:48,539 [INFO] agents.orchestrator_agent - reception_agent: 呼び出し開始
+2026-07-04 00:30:48,539 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し開始 agent=申請受付窓口エージェント
+2026-07-04 00:30:48,540 [INFO] handlers.loop_control_hook - LoopControlHook: iteration=0/10 agent=申請受付窓口エージェント
+2026-07-04 00:30:50,438 [INFO] handlers.loop_control_hook - LoopControlHook: 反復カウント更新 count=1/10
+2026-07-04 00:30:50,439 [INFO] handlers.loop_control_hook - LoopControlHook: ツール呼び出し開始 tool=transport_application_agent
+2026-07-04 00:30:50,439 [INFO] agents.base_agent - AG-002: invoke_specialist_agent 開始 applicant_name=堀井 application_date=2026-07-04 session_id=20260704_002924_a5ddeaf6
+2026-07-04 00:30:50,447 [WARNING] strands.session.repository_session_manager - Session message history has an orphaned toolUse with no toolResult. Adding toolResult content blocks to create valid conversation.
+2026-07-04 00:30:50,447 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し開始 agent=交通費精算申請エージェント
+2026-07-04 00:30:50,449 [INFO] handlers.loop_control_hook - LoopControlHook: iteration=0/10 agent=交通費精算申請エージェント
+2026-07-04 00:30:52,946 [INFO] handlers.loop_control_hook - LoopControlHook: 反復カウント更新 count=1/10
+2026-07-04 00:30:52,947 [INFO] handlers.human_approval_hook - HumanApprovalHook: 承認確認開始 tool_name=generate_transport_expense_form
+2026-07-04 00:30:52,947 [INFO] handlers.human_approval_hook - HumanApprovalHook: 承認OK tool_name=generate_transport_expense_form
+2026-07-04 00:30:52,947 [INFO] handlers.loop_control_hook - LoopControlHook: ツール呼び出し開始 tool=generate_transport_expense_form
+2026-07-04 00:30:52,947 [INFO] tools.output_generator - generate_transport_expense_form: 開始 sections=1
+2026-07-04 00:30:52,965 [INFO] tools.output_generator - generate_transport_expense_form: 生成成功 file_path=outputs/交通費精算申請書_20260704003052.xlsx
+2026-07-04 00:30:52,965 [INFO] handlers.loop_control_hook - LoopControlHook: ツール呼び出し完了 tool=generate_transport_expense_form
+2026-07-04 00:30:52,967 [INFO] handlers.loop_control_hook - LoopControlHook: iteration=1/10 agent=交通費精算申請エージェント
+2026-07-04 00:30:59,687 [INFO] handlers.loop_control_hook - LoopControlHook: 反復カウント更新 count=2/10
+2026-07-04 00:30:59,687 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し完了 合計2ループ agent=交通費精算申請エージェント
+2026-07-04 00:30:59,689 [INFO] handlers.loop_control_hook - LoopControlHook: ツール呼び出し完了 tool=transport_application_agent
+2026-07-04 00:30:59,691 [INFO] handlers.loop_control_hook - LoopControlHook: iteration=1/10 agent=申請受付窓口エージェント
+2026-07-04 00:31:03,466 [INFO] handlers.loop_control_hook - LoopControlHook: 反復カウント更新 count=2/10
+2026-07-04 00:31:03,467 [INFO] handlers.loop_control_hook - LoopControlHook: 呼び出し完了 合計2ループ agent=申請受付窓口エージェント
+2026-07-04 00:31:12,748 [INFO] __main__ - システム正常終了

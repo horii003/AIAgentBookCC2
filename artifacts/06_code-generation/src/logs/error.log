@@ -1,0 +1,2 @@
+2026-07-04 00:18:13,747 [ERROR] strands.tools.executors._executor - tool_name=<transport_application_agent>, available_tools=<['calculate_transport_fare', 'generate_transport_expense_form']> | tool not found in registry
+2026-07-04 00:30:20,114 [ERROR] strands.tools.executors._executor - tool_name=<transport_application_agent>, available_tools=<['calculate_transport_fare', 'generate_transport_expense_form']> | tool not found in registry

@@ -1,0 +1,31 @@
+{
+  "message": {
+    "role": "assistant",
+    "content": [
+      {
+        "toolUse": {
+          "toolUseId": "tooluse_EU0e1ZrKeEa5TFET5WSgMi",
+          "name": "transport_application_agent",
+          "input": {
+            "query": "申請者名: 堀井\n申請内容: 交通費申請"
+          }
+        }
+      }
+    ],
+    "metadata": {
+      "usage": {
+        "inputTokens": 4009,
+        "outputTokens": 75,
+        "totalTokens": 4084
+      },
+      "metrics": {
+        "latencyMs": 2153,
+        "timeToFirstByteMs": 2004
+      }
+    }
+  },
+  "message_id": 5,
+  "redact_message": null,
+  "created_at": "2026-07-04T00:17:01.487479+00:00",
+  "updated_at": "2026-07-04T00:17:01.487492+00:00"
+}
